@@ -1,0 +1,12 @@
+h5py
+hiddenlayer
+matplotlib
+numpy
+pandas
+PyWavelets
+scikit-learn
+scipy
+torch
+torchvision
+tqdm
+
